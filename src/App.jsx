@@ -11,7 +11,7 @@ function App() {
       <nav class="navbar navbar-dark" style={{ backgroundColor: "green" }}>
         <a class="navbar-brand mb-0 h1" href="#">
           <img src={nutriLogo} style={{ marginRight: '1rem' }} width="40" height="40" class="d-inline-block align-top" alt="" />
-          <span className='mt-1'>Gilson Nutricionista</span>
+          <span className='mt-1'>Karla Nutricionista</span>
         </a>
         <span className='mt-1 h6 text-white'>Entre em contato pelo whatsapp</span>
       </nav>
@@ -39,7 +39,7 @@ function App() {
             <div style={{ display: 'flex', flexDirection: 'row', maxHeight: '85vh' }}>
               <div style={{ flex: '1', justifyContent: 'center', alignItems: 'center', display: 'flex', marginTop: '10%' }} >
 
-                <iframe style={{ border: 'none', borderRadius: '25 px', borderLeft: 'solid 10px green', borderBottom: 'solid 8px green' }} className='mt-5' width="auto" height="80%" src="https://www.youtube.com/embed/J2wKVPUUGis" title="Como funciona o meu atendimento- site" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe style={{ border: 'none', borderRadius: '25px', borderLeft: 'solid 10px green', borderBottom: 'solid 8px green' }} className='mt-5' width="auto" height="80%" src="https://www.youtube.com/embed/J2wKVPUUGis" title="Como funciona o meu atendimento- site" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
               </div>
